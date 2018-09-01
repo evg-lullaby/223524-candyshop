@@ -1,7 +1,7 @@
 # Личный проект «Кэндишоп» [![Build status][travis-image]][travis-url]
 
 * Студент: [Евгения Гусакова](https://up.htmlacademy.ru/javascript/15/user/223524).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
